@@ -5,7 +5,7 @@ Features:
    2.  Three levels of difficulty based on grid size
    3.  First-person navigation controls
    4.  Simple and intuitive user interface with homepage
-Installation:
+Installation: 
         To run this project, you will need:
                             C++ compiler
                             OpenGL library
