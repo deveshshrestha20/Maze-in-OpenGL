@@ -9,10 +9,10 @@ Features:
 
 Installation: 
         To run this project, you will need:
-                            C++ compiler
-                            OpenGL library
-                            GLUT library
-                            GLM library
+                           1. C++ compiler
+                           2. OpenGL library
+                           3.  GLUT library
+                           4.  GLM library
         Clone this repository to your local machine using git clone https://github.com/your-username/opengl-maze.git
         Compile the project using your C++ compiler.
         Run the compiled executable.
